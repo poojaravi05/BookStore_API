@@ -1,0 +1,73 @@
+[{
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "description": "A classic novel that explores racial injustice in a small Southern town.",
+  "price": 12.99,
+  "stock": 10
+},{
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "description": "A novel about the decadence and excess of the Roaring Twenties.",
+  "price": 9.99,
+  "stock": 15
+},{
+  "title": "1984",
+  "author": "George Orwell",
+  "description": "A dystopian novel set in a totalitarian future society.",
+  "price": 8.99,
+  "stock": 20
+},{
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "description": "A novel of manners set in 19th-century England.",
+  "price": 7.99,
+  "stock": 12
+},{
+  "title": "One Hundred Years of Solitude",
+  "author": "Gabriel Garcia Marquez",
+  "description": "A novel that tells the story of the Buendia family over the course of a century.",
+  "price": 10.99,
+  "stock": 8
+},{
+  "title": "Beloved",
+  "author": "Toni Morrison",
+  "description": "A novel that explores the legacy of slavery in America.",
+  "price": 11.99,
+  "stock": 5
+},{
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "description": "A novel about a teenage boy's experiences in New York City.",
+  "price": 9.99,
+  "stock": 18
+},{
+  "title": "The Lord of the Rings",
+  "author": "J.R.R. Tolkien",
+  "description": "A fantasy novel that follows a hobbit named Frodo on a quest to destroy a powerful ring.",
+  "price": 15.99,
+  "stock": 3
+},{
+  "title": "The Picture of Dorian Gray",
+  "author": "Oscar Wilde",
+  "description": "A novel about a young man who sells his soul for eternal youth and beauty.",
+  "price": 6.99,
+  "stock": 22
+},{
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "description": "A fantasy novel about the adventures of Bilbo Baggins, a hobbit who sets out on a quest.",
+  "price": 8.99,
+  "stock": 13
+},{
+  "title": "The Grapes of Wrath",
+  "author": "John Steinbeck",
+  "description": "A novel that follows a family of migrant workers during the Great Depression.",
+  "price": 12.99,
+  "stock": 7
+},{
+  "title": "Frankenstein",
+  "author": "Mary Shelley",
+  "description": "A novel about a scientist who creates a monster that becomes uncontrollable.",
+  "price": 7.99,
+  "stock": 16
+}]
